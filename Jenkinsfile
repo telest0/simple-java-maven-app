@@ -2,6 +2,7 @@ pipeline {
     agent {
         docker {
             image 'maven:3-alpine'
+	    args '-v /root/.m2:/root/.m2'
         }
     }
     stages {
@@ -11,8 +12,9 @@ pipeline {
                 sh 'ls -lha ~'
 		sh 'whoami'
 		sh 'ls -lha /home/'
-		sh 'echo show root directory'
+		sh 'touch file.txt'
 		sh 'ls -lha /root'
+
             }
         }
     }
