@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'my-app'" />
-    <option name="defaultScopeName" value="Project 'my-app'" />
-    <option name="SEARCH_SCOPE" value="Project 'my-app'" />
+    <option name="customScope" value="File '...\Jenkinsfile'" />
+    <option name="defaultScopeName" value="File '...\Jenkinsfile'" />
+    <option name="SEARCH_SCOPE" value="File '...\Jenkinsfile'" />
   </component>
 </application>
