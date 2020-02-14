@@ -10,6 +10,7 @@
 
 
   <properties>
+    <maven.deploy.plugin.version>2.8.2</maven.deploy.plugin.version>
     <nexus.deploy.plugin.version>1.6.7</nexus.deploy.plugin.version>
     <snapshots.repository>http://192.168.25.46:8081/repository/snapshots/</snapshots.repository>
     <releases.repository>http://192.168.25.46:8081/repository/releases/</releases.repository>
@@ -81,7 +82,7 @@
           </execution>
         </executions>
         <configuration>
-          <serverId>NEXUS</serverId>
+          <serverId>NEXUS-OSA</serverId>
           <nexusUrl>http://192.168.25.46:8081/</nexusUrl>
           <skipStaging>true</skipStaging>
         </configuration>
@@ -96,12 +97,12 @@
 
   <distributionManagement>
     <repository>
-      <id>NEXUS</id>
+      <id>NEXUS-OSA</id>
       <name>Internal Releases</name>
       <url>${releases.repository}</url>
     </repository>
     <snapshotRepository>
-      <id>NEXUS</id>
+      <id>NEXUS-OSA</id>
       <name>Internal Snapshots</name>
       <url>${snapshots.repository}</url>
     </snapshotRepository>
