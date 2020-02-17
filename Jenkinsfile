@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 sh 'mvn --version'
-                echo 'Phase null day'
+                echo 'Phase first day'
             }
         }
     }
