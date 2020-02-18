@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/telest0/simple-java-maven-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Matvey-Kuk/monitring-webinar.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\admin\Repository" />
