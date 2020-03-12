@@ -4,6 +4,7 @@
       <mapping pattern="Jenkinsfile*" type="Groovy" />
       <mapping pattern="payara_communicator" type="PLAIN_TEXT" />
       <mapping pattern="documentrepository_Test01" type="PLAIN_TEXT" />
+      <mapping ext="nl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
