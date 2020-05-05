@@ -74,6 +74,14 @@
           <option name="url" value="git@repository01.taf.nl:taf/services/underwriter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.rebrainme.com:webinars/ci-cd-for-beginners.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.rebrainme.com/webinars/ci-cd-for-beginners.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\admin\Repository" />
