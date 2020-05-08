@@ -7,6 +7,7 @@
       <mapping pattern="payara_communicator" type="PLAIN_TEXT" />
       <mapping pattern="accept_file" type="PLAIN_TEXT" />
       <mapping ext="nl" type="PLAIN_TEXT" />
+      <mapping ext="asadmin" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
     </extensionMap>
