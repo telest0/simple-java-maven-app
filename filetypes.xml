@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile*" type="Groovy" />
       <mapping pattern="keycloak_file" type="PLAIN_TEXT" />
+      <mapping pattern="asadmin" type="PLAIN_TEXT" />
       <mapping pattern="documentrepository_Test01" type="PLAIN_TEXT" />
       <mapping pattern="payara_communicator" type="PLAIN_TEXT" />
       <mapping pattern="accept_file" type="PLAIN_TEXT" />
