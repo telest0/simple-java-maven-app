@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile_Payara" type="Dockerfile" />
       <mapping pattern="Jenkinsfile*" type="Groovy" />
       <mapping pattern="keycloak_file" type="PLAIN_TEXT" />
       <mapping pattern="asadmin" type="PLAIN_TEXT" />
