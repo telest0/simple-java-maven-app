@@ -150,6 +150,10 @@
           <option name="url" value="https://gitlab.rebrainme.com/ov/quiz.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@repository01.taf.nl:taf/services/riskindicator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\admin\Repository" />
