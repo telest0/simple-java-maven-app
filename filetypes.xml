@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile_Payara" type="Dockerfile" />
       <mapping pattern="Jenkinsfile*" type="Groovy" />
+      <mapping pattern="Dockerfile_with_certif_and_changed_password" type="PLAIN_TEXT" />
       <mapping pattern="keycloak_file" type="PLAIN_TEXT" />
       <mapping pattern="asadmin" type="PLAIN_TEXT" />
       <mapping pattern="test05_QS" type="PLAIN_TEXT" />
