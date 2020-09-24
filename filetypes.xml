@@ -16,6 +16,7 @@
       <mapping ext="nl" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="asadmin_old" type="PLAIN_TEXT" />
     </extensionMap>
