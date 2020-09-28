@@ -16,6 +16,7 @@
       <mapping pattern="accept_file" type="PLAIN_TEXT" />
       <mapping ext="asadmin" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
+      <mapping ext="occupationservice" type="PLAIN_TEXT" />
       <mapping ext="zipcode_only_works" type="PLAIN_TEXT" />
       <mapping ext="zipcode_only" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
