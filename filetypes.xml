@@ -15,6 +15,7 @@
       <mapping pattern="Dockerfile_golden_image_works" type="PLAIN_TEXT" />
       <mapping pattern="accept_file" type="PLAIN_TEXT" />
       <mapping ext="asadmin" type="PLAIN_TEXT" />
+      <mapping ext="zipcode" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="zipcode_only_works" type="PLAIN_TEXT" />
       <mapping ext="occupationservice" type="PLAIN_TEXT" />
