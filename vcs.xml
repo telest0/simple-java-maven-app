@@ -198,6 +198,10 @@
           <option name="url" value="git@repository01.taf.nl:taf/services/financialdataadapter_3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:fruitcakestudio/taf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\admin\Repository" />
