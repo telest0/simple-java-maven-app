@@ -25,6 +25,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="asadmin_old" type="PLAIN_TEXT" />
       <mapping ext="nl" type="PLAIN_TEXT" />
+      <mapping pattern="new-tafadmin-dataanonymizer-CREATEDUMP" type="YAML" />
     </extensionMap>
   </component>
 </application>
