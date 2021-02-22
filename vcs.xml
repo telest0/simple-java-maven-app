@@ -226,6 +226,10 @@
           <option name="url" value="git@repository01.taf.nl:taf/security.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gist.github.com/5f625a1dc3af79369ec1310b8b4d0ef5.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\admin\Repository" />
